@@ -63,3 +63,10 @@ footer{
     height: 55vh;
     align-items: center;
 }
+
+.form_section{
+    
+    width: 60%;
+    height: 100vh;
+    margin: auto auto;
+}
