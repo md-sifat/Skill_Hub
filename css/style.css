@@ -43,6 +43,9 @@ header{
 .btn{
     height: 40px;
 }
+.ready_card .btn a{
+    text-decoration: none;
+}
 
 .ask{
     width: 80%;
